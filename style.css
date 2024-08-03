@@ -120,19 +120,22 @@ hr{
     background-color: #283f1a;
 }
 
-.footer-head{
-    margin-top: 20px;
-   
-}
 
 .head-center{
     text-align: center;
     padding-top: 5px;
-    background-color: #affad8;
+    
     color: #062920;
+    
 }
 
 #groceries-img{
     height: 35px;
+    margin-left: 3px;
     
+}
+
+#footer-bg{
+    background-color: #affad8;
+    height: 50px;
 }
